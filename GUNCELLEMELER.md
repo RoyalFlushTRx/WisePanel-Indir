@@ -3,6 +3,7 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 ## 18 Kasım 2026
+- **🚨 WiseSiren eklendi** (panelde yeni sekme): istediğiniz sayfayı ana bilgisayarda gerçek tarayıcıyla izler; gerçekten bir şey değişince (bilet / stok açıldı, "tükendi" kalktı) ana bilgisayarda kırmızı pencere ve siren çalar, telefonlara ve açık panellere bildirim gider. Giriş isteyen sayfalar da izlenebilir. Telefonda **Ayarlar → Bildirimler → "WiseSiren"** ile açılıp kapatılır. Kerem Alkan'ın açık kaynak [PageSiren](https://github.com/kerem-alkan/pagesiren) projesine dayanır (MIT). *Ana bilgisayar güncellemesi: diğer bilgisayarlarda bir şey yapmak gerekmez.*
 - **Uzak bilgisayar kurulum betiği** eklendi: tek çift tıkla uygulamayı indirir ve ana bilgisayara bağlanacak şekilde ayarlar (`WisePanel-uzak-bilgisayar-kurulum.zip`).
 - **Ana bilgisayar:** Tailscale bilgisayar açılınca / uykudan uyanınca kendiliğinden bağlanacak şekilde ayarlandı (sabahları telefondan ve uzaktan erişimin kopması giderildi).
 - **Düzeltme (sonraki uygulama sürümünde):** uygulamaya elle yazılan `https://` adresine yanlışlıkla 5178 portu ekleniyordu. Bu sürümde kurulum betiği adresi doğru yazarak sorunu aşıyor.
