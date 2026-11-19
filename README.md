@@ -2,7 +2,7 @@
 
 Biletwise satışları için tedarik, gişe takibi ve müşteri mesajları paneli.
 
-- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest)
+- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest) — şu an **2.1.7**
 - **Neler değişti:** [GUNCELLEMELER.md](GUNCELLEMELER.md)
 
 > Kaynak kod özel depodadır; bu sayfada yalnız kurulum dosyaları, kurulum rehberi ve güncelleme notları bulunur.
@@ -50,11 +50,19 @@ WisePanel tek bir **ana bilgisayarda** çalışır (sunucu, veriler, Biletwise o
 
 Uzaktaki bilgisayara Tailscale ya da başka bir program kurmak gerekmez. Sonraki sürümler ana bilgisayardan **kendiliğinden** kurulur.
 
-**Elle kurulum (yalnız ofis ağı adresi için):** `WisePanel-Kurulum-<sürüm>.exe` → ilk açılışta **"Ana bilgisayara bağlan (istemci)"** → adres → **Bağlantıyı dene** → **Kaydet ve aç**. İnternet (`https://…`) adresi için yukarıdaki betiği kullanın: 2.1.6 sürümünde elle yazılan https adresine yanlışlıkla 5178 portu ekleniyor.
+**Elle kurulum:** `WisePanel-Kurulum-<sürüm>.exe` → ilk açılışta **"Ana bilgisayara bağlan (istemci)"** → adres (ofis ağı `http://192.168.x.x:5178` ya da internet `https://…ts.net`) → **Bağlantıyı dene** → **Kaydet ve aç**.
+
+**WisePanel zaten kuruluysa:** son sürümün `WisePanel-Kurulum-<sürüm>.exe` dosyasını indirip çalıştırın; ayarlar ve bağlantı korunur.
+
+**Biletwise hesabım:** her kullanıcı **Ayarlar → Biletwise hesabım → Biletwise'a giriş yap** ile kendi Biletwise hesabını bağlayabilir (2.1.7 ve sonrası; 2.1.6'da giriş penceresi girişi fark etmiyordu).
 
 ## Telefon
 
 Telefonun tarayıcısında ana bilgisayarın `https://…ts.net` adresini açıp giriş yapın → **Ana ekrana ekle** (iPhone: Safari → Paylaş → Ana Ekrana Ekle). Uygulamayı ana ekrandan açıp **Ayarlar → Bildirimler → "Bu cihazda bildirimleri aç"**.
+
+## 🚨 WiseSiren (sayfa izleyici)
+
+Panelde **🚨 WiseSiren** sekmesi: istediğiniz herkese açık sayfayı (bilet, stok, randevu…) **ana bilgisayarda** gerçek tarayıcıyla izler; gerçek bir değişiklik olunca ana bilgisayarda kırmızı pencere ve siren çalar, WisePanel açık diğer bilgisayarlarda kırmızı alarm ekranı açılır, telefonlara bildirim gider. Telefonda **Ayarlar → Bildirimler → 🚨 WiseSiren** ile açılıp kapatılır.
 
 ## Ana bilgisayar
 

@@ -2,6 +2,10 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
+## 19 Kasım 2026 — Windows uygulaması 2.1.7
+- **Biletwise hesabım girişi düzeltildi:** *Ayarlar → Biletwise hesabım → Biletwise'a giriş yap* penceresi giriş yapılsa da bunu fark etmiyordu. Kapatılınca "Giriş penceresi kapatıldı; bağlantı değişmedi" hatası çıkıyordu. Artık giriş tanınıyor ve hesap bağlanıyor. **Kendi Biletwise hesabıyla bağlanacak herkes 2.1.7'yi kurmalı** ([indir](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest)).
+- **İnternet adresiyle bağlantı:** uygulamaya elle yazılan `https://…` adresine yanlışlıkla 5178 portu ekleniyordu. Düzeltildi.
+
 ## 18 Kasım 2026
 - **🚨 WiseSiren, WisePanel'in parçası gibi:** panelin renkleri ve açık / koyu temasıyla, hep Türkçe. Sekmeler arasında geçince ekran yeniden yüklenmez. Sayfalar her zaman **ana bilgisayarda** okunur (işlem yükü orada); diğer bilgisayarlar yalnız ekranı gösterir.
 - **🚨 Diğer bilgisayarlarda alarm ekranı:** izlenen sayfa değişince WisePanel açık her bilgisayarda kırmızı alarm ekranı açılır ve siren çalar. **Gördüm** / **Yanlış alarm** alarmı her bilgisayarda kapatır.
