@@ -2,6 +2,9 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
+## 19 Kasım 2026 — Müşteri mesaj şablonları
+- **Hazır şablonlar güncellendi:** 11 şablonun metni (Passolig ücret ve bakiye, şifre değiştirmeyin, iade talebi, son hatırlatma vb.) güncel şablon listesindeki haliyle değiştirildi. İmzalar şablonlardan çıkarıldı: imzayı panel, her kişinin seçtiği temsilciye göre kendisi ekler. *Ana bilgisayar güncellemesi, diğer bilgisayarlarda bir şey yapmak gerekmez;* açık Mesajlar pencereleri yeni şablonları kendiliğinden alır.
+
 ## 19 Kasım 2026 — Windows uygulaması 2.1.9
 - **Biletwise hesabım girişi:** e-posta ve şifre girilince pencere hemen kapanıyor, ardından "Biletwise oturumu doğrulanamadı" hatası çıkıyordu. Pencere artık girişin gerçekten tamamlandığını doğruladıktan sonra kapanır; şifreden sonra ara bir adım gelirse (ör. doğrulama kodu) pencere açık kalır.
 - **İnternetten bağlanan bilgisayarlar** da güncellemeleri artık kendiliğinden alır (önce yalnız ofis ağındakiler alıyordu).
