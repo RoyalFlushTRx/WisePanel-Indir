@@ -2,6 +2,11 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
+## 19 Kasım 2026 — Windows uygulaması 2.1.9
+- **Biletwise hesabım girişi:** e-posta ve şifre girilince pencere hemen kapanıyor, ardından "Biletwise oturumu doğrulanamadı" hatası çıkıyordu. Pencere artık girişin gerçekten tamamlandığını doğruladıktan sonra kapanır; şifreden sonra ara bir adım gelirse (ör. doğrulama kodu) pencere açık kalır.
+- **İnternetten bağlanan bilgisayarlar** da güncellemeleri artık kendiliğinden alır (önce yalnız ofis ağındakiler alıyordu).
+- Kendiliğinden gelir: "WisePanel 2.1.9 hazır. Şimdi güncellensin mi?" sorusunu onaylamanız yeterli.
+
 ## 19 Kasım 2026 — Windows uygulaması 2.1.8
 - **Kendiliğinden güncellenir:** kurulu bütün WisePanel'lerde "WisePanel 2.1.8 hazır. Şimdi güncellensin mi?" sorusu çıkar; onaylamanız yeterli, bir şey indirmeniz gerekmez.
 - **👁 Müşteri mesajlarında "bu mesaja bakıyor":** bir kişi bir müşteri sohbetini açınca diğerleri sohbetin başlığında "Kerem bu mesaja bakıyor" (yazıyorsa "Kerem bu müşteriye yazıyor…") görür. Listede de rozet çıkar. Başkası bakarken ya da yazarken Gönder'e basılırsa "Yine de gönderilsin mi?" diye sorulur, böylece aynı müşteriye iki kişi yazmaz. Mesajlar penceresinde ve telefonda çalışır; *ana bilgisayar güncellemesi, diğer bilgisayarlarda bir şey yapmak gerekmez.*

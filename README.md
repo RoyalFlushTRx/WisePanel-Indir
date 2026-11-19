@@ -2,7 +2,7 @@
 
 Biletwise satışları için tedarik, gişe takibi ve müşteri mesajları paneli.
 
-- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest) — şu an **2.1.8** (yalnız yeni bilgisayara ilk kurulum için; kurulu WisePanel'ler kendiliğinden güncellenir)
+- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest) — şu an **2.1.9** (yalnız yeni bilgisayara ilk kurulum için; kurulu WisePanel'ler kendiliğinden güncellenir)
 - **Neler değişti:** [GUNCELLEMELER.md](GUNCELLEMELER.md)
 
 > Kaynak kod özel depodadır; bu sayfada yalnız kurulum dosyaları, kurulum rehberi ve güncelleme notları bulunur.
