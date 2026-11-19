@@ -2,6 +2,12 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
+## 19 Kasım 2026 — Ekip: "yazıyor…" ve görüldü tikleri
+- **Tikler (WhatsApp gibi):** Ekip'te kendi mesajlarınızın saatinin yanında durum görünür. **✓** gönderildi (karşı taraf çevrimiçi değil, mesaj ona henüz ulaşmadı), **✓✓ gri** teslim edildi (karşı tarafın WisePanel'ine ulaştı), **✓✓ mavi** görüldü. Kanallarda tikler herkes görünce mavi olur. Masaüstünde fareyle tikin üzerine gelince, telefonda tike dokununca ne olduğu ve kimlerin gördüğü yazar ("Görüldü 13:35", "Görenler: …").
+- **"Kerem yazıyor…":** biri yazarken direkt mesajda başlıkta ve kişi listesinde "yazıyor…" çıkar. Kanallarda mesaj kutusunun altında (telefonda başlıkta) "Kerem yazıyor…" görünür. Yazmayı bırakınca birkaç saniye içinde kaybolur.
+- Kanallarda en yeni mesajın altında **"Görenler: …"** satırı vardır.
+- Masaüstünde ve telefonda çalışır. *Ana bilgisayar güncellemesi, diğer bilgisayarlarda bir şey yapmak gerekmez;* açık Ekip pencereleri yeni hali kendiliğinden yükler.
+
 ## 19 Kasım 2026 — Müşteri mesaj şablonları
 - **Hazır şablonlar güncellendi:** 11 şablonun metni (Passolig ücret ve bakiye, şifre değiştirmeyin, iade talebi, son hatırlatma vb.) güncel şablon listesindeki haliyle değiştirildi. İmzalar şablonlardan çıkarıldı: imzayı panel, her kişinin seçtiği temsilciye göre kendisi ekler. *Ana bilgisayar güncellemesi, diğer bilgisayarlarda bir şey yapmak gerekmez;* açık Mesajlar pencereleri yeni şablonları kendiliğinden alır.
 
