@@ -2,9 +2,10 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
-## 19 Kasım 2026 — Windows uygulaması 2.1.7
+## 19 Kasım 2026 — Windows uygulaması 2.1.8
+- **Kendiliğinden güncellenir:** kurulu bütün WisePanel'lerde "WisePanel 2.1.8 hazır. Şimdi güncellensin mi?" sorusu çıkar; onaylamanız yeterli, bir şey indirmeniz gerekmez.
 - **👁 Müşteri mesajlarında "bu mesaja bakıyor":** bir kişi bir müşteri sohbetini açınca diğerleri sohbetin başlığında "Kerem bu mesaja bakıyor" (yazıyorsa "Kerem bu müşteriye yazıyor…") görür. Listede de rozet çıkar. Başkası bakarken ya da yazarken Gönder'e basılırsa "Yine de gönderilsin mi?" diye sorulur, böylece aynı müşteriye iki kişi yazmaz. Mesajlar penceresinde ve telefonda çalışır; *ana bilgisayar güncellemesi, diğer bilgisayarlarda bir şey yapmak gerekmez.*
-- **Biletwise hesabım girişi düzeltildi:** *Ayarlar → Biletwise hesabım → Biletwise'a giriş yap* penceresi giriş yapılsa da bunu fark etmiyordu. Kapatılınca "Giriş penceresi kapatıldı; bağlantı değişmedi" hatası çıkıyordu. Artık giriş tanınıyor ve hesap bağlanıyor. **Kendi Biletwise hesabıyla bağlanacak herkes 2.1.7'yi kurmalı** ([indir](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest)).
+- **Biletwise hesabım girişi düzeltildi:** *Ayarlar → Biletwise hesabım → Biletwise'a giriş yap* penceresi giriş yapılsa da bunu fark etmiyordu. Kapatılınca "Giriş penceresi kapatıldı; bağlantı değişmedi" hatası çıkıyordu. Artık giriş tanınıyor ve hesap bağlanıyor.
 - **İnternet adresiyle bağlantı:** uygulamaya elle yazılan `https://…` adresine yanlışlıkla 5178 portu ekleniyordu. Düzeltildi.
 
 ## 18 Kasım 2026

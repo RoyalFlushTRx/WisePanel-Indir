@@ -2,7 +2,7 @@
 
 Biletwise satışları için tedarik, gişe takibi ve müşteri mesajları paneli.
 
-- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest) — şu an **2.1.7**
+- **İndir:** [Son sürüm (Releases)](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases/latest) — şu an **2.1.8** (yalnız yeni bilgisayara ilk kurulum için; kurulu WisePanel'ler kendiliğinden güncellenir)
 - **Neler değişti:** [GUNCELLEMELER.md](GUNCELLEMELER.md)
 
 > Kaynak kod özel depodadır; bu sayfada yalnız kurulum dosyaları, kurulum rehberi ve güncelleme notları bulunur.
@@ -52,9 +52,9 @@ Uzaktaki bilgisayara Tailscale ya da başka bir program kurmak gerekmez. Sonraki
 
 **Elle kurulum:** `WisePanel-Kurulum-<sürüm>.exe` → ilk açılışta **"Ana bilgisayara bağlan (istemci)"** → adres (ofis ağı `http://192.168.x.x:5178` ya da internet `https://…ts.net`) → **Bağlantıyı dene** → **Kaydet ve aç**.
 
-**WisePanel zaten kuruluysa:** son sürümün `WisePanel-Kurulum-<sürüm>.exe` dosyasını indirip çalıştırın; ayarlar ve bağlantı korunur.
+**Güncellemeler kendiliğinden gelir:** WisePanel kurulu bilgisayarlar yeni sürümü ana bilgisayardan alır; uygulamada "WisePanel X hazır. Şimdi güncellensin mi?" sorusu çıkınca onaylamanız yeterli. Bu sayfadan bir şey indirmeniz gerekmez.
 
-**Biletwise hesabım:** her kullanıcı **Ayarlar → Biletwise hesabım → Biletwise'a giriş yap** ile kendi Biletwise hesabını bağlayabilir (2.1.7 ve sonrası; 2.1.6'da giriş penceresi girişi fark etmiyordu).
+**Biletwise hesabım:** her kullanıcı **Ayarlar → Biletwise hesabım → Biletwise'a giriş yap** ile kendi Biletwise hesabını bağlayabilir (2.1.8 ve sonrası; 2.1.6'da giriş penceresi girişi fark etmiyordu).
 
 ## Telefon
 
