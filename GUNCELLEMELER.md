@@ -2,6 +2,12 @@
 
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
+
+## 23 Kasım 2026 — Telsiz sesi ve gişe doğrulaması
+- **📻 Telsiz sesi artık kesik kesik gelmiyor:** internetten bağlanan bilgisayar ve telefonlarda ağ biraz yavaşlayınca sesin bir kısmı atılıyordu, ağ kusursuzken bile her parça arasında küçük bir tık duyuluyordu. Artık ses gecikse de atılmıyor (kısa bir duraklamayla kaldığı yerden sürüyor), tıklar kalktı, yavaş ve kopan bağlantıda gönderilemeyen ses yeniden gönderiliyor. Bırakınca son hece de gidiyor.
+- **Telsiz basma sesi yumuşadı:** daha pes ve kısa; konuşanın kendi "konuşun" sesi karşıya gitmiyor.
+- **"Gişede var" yalnız gerçekten varsa:** resmi satış sayfasında bu maç için satın alma düğmesi ya da fiyat görülüp doğrulanmadıysa, doğrulama eskidiyse ya da satılan kategori deplasman / VIP olup ayrıca görülmediyse maç **"Gişede olabilir"** grubunda nedeniyle görünür (masaüstü ve telefon). Paket satışı, ikinci el siteleri ve yalnız maç adının listede geçmesi artık "gişede var" sayılmıyor. "📰 Gişe açılmış olabilir" uyarıları aynen sürüyor; doğrulanınca "GİŞE AÇILDI" bir kez gelir.
+- *Ana bilgisayar güncellemesi: diğer bilgisayarlarda bir şey yapmak gerekmez;* açık paneller yeni hali kendiliğinden yükler.
 ## 19 Kasım 2026 — Ekip: "yazıyor…" ve görüldü tikleri
 - **Tikler (WhatsApp gibi):** Ekip'te kendi mesajlarınızın saatinin yanında durum görünür. **✓** gönderildi (karşı taraf çevrimiçi değil, mesaj ona henüz ulaşmadı), **✓✓ gri** teslim edildi (karşı tarafın WisePanel'ine ulaştı), **✓✓ mavi** görüldü. Kanallarda tikler herkes görünce mavi olur. Masaüstünde fareyle tikin üzerine gelince, telefonda tike dokununca ne olduğu ve kimlerin gördüğü yazar ("Görüldü 13:35", "Görenler: …").
 - **"Kerem yazıyor…":** biri yazarken direkt mesajda başlıkta ve kişi listesinde "yazıyor…" çıkar. Kanallarda mesaj kutusunun altında (telefonda başlıkta) "Kerem yazıyor…" görünür. Yazmayı bırakınca birkaç saniye içinde kaybolur.
