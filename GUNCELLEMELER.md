@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 23 Kasım 2026 — Gişe alarmları: 1 gün önce, "GİŞEDE BİLET VAR" ve yeni satışta hemen kontrol
+- **⏰ Açılıştan 1 gün önce alarm:** haberlerde ya da resmi duyuruda genel satışın tarihi / saati öğrenilince Ekip'te herkese alarm çalar: "⏰ Satış yarın" (aynı gün açılıyorsa "Satış bugün"). Sonra 2 saat önce ve açılış anında yine çalar. Gece (00:00–08:00) çalmaz, sabahı bekler. Yalnız tarihi bilinen açılışta (saat yok) önceki gün 10:00'da ve açılış günü 09:00'da çalar. Üye / kombine / paket ön satışına alarm kurulmaz; o durumda duyurudaki genel satışa kurulur.
+- **🎟 "GİŞEDE BİLET VAR" — ayrı alarm sesiyle:** gişe resmi satış sayfasında gerçekten doğrulanınca (bu maç, satılan kategori, şimdi satışta) alarm taradığı anda çalar. Sesi öteki alarmlardan farklıdır (parlak, yükselen üç çan); başka bir alarm çalarken gelirse de kendi sesiyle duyulur. Alarmda "Satın alma sayfasını aç" düğmesi vardır. Aynı maç için 6 saatte en çok bir kez çalar. Emin olunmayan ("Gişede olabilir") satışta çalmaz.
+- **Her yeni satışta gişe hemen kontrol edilir:** yeni satış gelince o maçın yetkili satış sitesi en öncelikli işlerden biri olarak hemen taranır. Araştırma beklemedeyken de bu iş bekletilmez. Bilet varsa yukarıdaki alarm çalar. Gişe son 6 saat içinde zaten doğrulanmışsa alarm beklemeden çalar.
+- *Ana bilgisayar güncellemesi: diğer bilgisayarlarda bir şey yapmak gerekmez;* açık paneller ve telefonlar yeni hali kendiliğinden yükler.
+
 ## 23 Kasım 2026 — Telsiz sesi ve gişe doğrulaması
 - **📻 Telsiz sesi artık kesik kesik gelmiyor:** internetten bağlanan bilgisayar ve telefonlarda ağ biraz yavaşlayınca sesin bir kısmı atılıyordu, ağ kusursuzken bile her parça arasında küçük bir tık duyuluyordu. Artık ses gecikse de atılmıyor (kısa bir duraklamayla kaldığı yerden sürüyor), tıklar kalktı, yavaş ve kopan bağlantıda gönderilemeyen ses yeniden gönderiliyor. Bırakınca son hece de gidiyor.
 - **Telsiz basma sesi yumuşadı:** daha pes ve kısa; konuşanın kendi "konuşun" sesi karşıya gitmiyor.
