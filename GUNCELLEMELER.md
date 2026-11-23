@@ -3,6 +3,11 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 23 Kasım 2026 — Como 1907 maçlarında otomatik kimlik bilgisi mesajı
+- **🇮🇹 Como 1907 iç saha maçları:** ev sahibi Como 1907 olan maçın **yeni** bilet satışında müşteriye alıcı sohbetinden kimlik bilgisi mesajı (ad, soyad, pasaport, ülke, doğum tarihi) otomatik gider. Yunan maçlarındaki mesajla aynı kurallar geçerli: açıldığı andan önceki satışlara gitmez, aynı alıcıya aynı maç için bir kez gider, deplasman maçlarına gitmez. Gönderilemezse otomatik tekrar denenmez, satışta kırmızı 🇮🇹 rozeti çıkar.
+- Varsayılan **açık**. *Ayarlar → Müşteri mesajları* bölümünden kapatılabilir ve metni değiştirilebilir. Satışta 🇮🇹 rozeti, Hareketler'de "Como 1907 kimlik mesajı" görünür.
+- *Ana bilgisayar güncellemesi: diğer bilgisayarlarda bir şey yapmak gerekmez;* açık paneller yeni hali kendiliğinden yükler.
+
 ## 23 Kasım 2026 — Gişe alarmları: 1 gün önce, "GİŞEDE BİLET VAR" ve yeni satışta hemen kontrol
 - **⏰ Açılıştan 1 gün önce alarm:** haberlerde ya da resmi duyuruda genel satışın tarihi / saati öğrenilince Ekip'te herkese alarm çalar: "⏰ Satış yarın" (aynı gün açılıyorsa "Satış bugün"). Sonra 2 saat önce ve açılış anında yine çalar. Gece (00:00–08:00) çalmaz, sabahı bekler. Yalnız tarihi bilinen açılışta (saat yok) önceki gün 10:00'da ve açılış günü 09:00'da çalar. Üye / kombine / paket ön satışına alarm kurulmaz; o durumda duyurudaki genel satışa kurulur.
 - **🎟 "GİŞEDE BİLET VAR" — ayrı alarm sesiyle:** gişe resmi satış sayfasında gerçekten doğrulanınca (bu maç, satılan kategori, şimdi satışta) alarm taradığı anda çalar. Sesi öteki alarmlardan farklıdır (parlak, yükselen üç çan); başka bir alarm çalarken gelirse de kendi sesiyle duyulur. Alarmda "Satın alma sayfasını aç" düğmesi vardır. Aynı maç için 6 saatte en çok bir kez çalar. Emin olunmayan ("Gişede olabilir") satışta çalmaz.
