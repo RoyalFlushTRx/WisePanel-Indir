@@ -3,6 +3,13 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 24 Kasım 2026 — Telefonda 🚨 WiseSiren alarmı ve bildirimden "✅ Gördüm"
+- **🚨 WiseSiren telefonda:** izlenen bir sayfa değişince telefonda da tam ekran kırmızı alarm kartı açılır (uygulama açıkken siren de çalar, en çok 60 sn). Kartta ne değiştiği, **✅ Gördüm**, **Yanlış alarm** ve **Sayfayı aç** vardır. Telefondan "Gördüm" denince alarm her yerde kapanır: bilgisayarlardaki kırmızı pencere ve ana bilgisayardaki WiseSiren sireni de susar. Birden çok alarm varsa kartta sırayla gezilir. × yalnız o telefonda gizler.
+- **Bildirimden kapatma (Android):** WiseSiren, Ekip alarmı, satış alarmı, maç öncesi, 🎟 GİŞEDE BİLET VAR ve ⏰ satış saati bildirimlerinde **Aç** ve **✅ Gördüm** düğmeleri var; "Gördüm" uygulamayı açmadan alarmı kapatır. iPhone bildirimde düğme göstermez; bildirime dokununca uygulama doğrudan ilgili alarm kartıyla açılır.
+- **Alarmlarım (telefon ve masaüstü):** çalan alarmda **Kapat** ve **Ertele** düğmeleri var; herkese kurulan çalan alarmlar (maç öncesi, gişe, satış saati) da "Çalıyor" bölümünde görünür.
+- **Bildirim güncellenir:** bir alarmı bir cihazdan kapatınca öteki cihazlarınızdaki bildirim "✅ Alarm kapatıldı" olarak değişir; WiseSiren alarmı kapanınca herkesin telefonundaki siren bildirimi de değişir.
+- *Ana bilgisayar güncellemesi yapıldı;* açık paneller ve telefonlar yeni hali kendiliğinden yükler (gerekirse uygulamayı kapatıp açın).
+
 ## 24 Kasım 2026 — 🎥 Görüntülü görüşme, daha az gecikmeli telsiz görüşmesi (Windows uygulaması 2.2.0)
 - **🎥 Görüntülü görüşme:** Ekip'te bir kişiyle direkt mesajdayken başlıkta **🎥 Görüntülü ara** var (telefonda sohbet başlığındaki kamera simgesi ya da "⋯" menüsü). Karşı taraf **🎥 Görüntülü cevapla** ya da yalnız sesli **📞 Cevapla** seçebilir. Görüşmede kamera açılıp kapatılabilir, telefonda ön / arka kamera değiştirilir, görüntü büyütülüp küçültülebilir. Görüntülü görüşme birebirdir; grup görüşmeleri sesli sürer. Ses ve görüntü kaydedilmez.
 - **⚡ Daha az gecikme:** iki uç birbirine doğrudan ulaşabiliyorsa ses ve görüntü sunucuya uğramadan doğrudan gider; gecikme yaklaşık 0,1–0,2 sn'ye iner. Dubai ile İstanbul arasında da internet üzerinden doğrudan bağlantı denenir, Tailscale gerekmez. Görüşmenin üstünde **Doğrudan** ya da **Sunucu üzerinden** yazar.
