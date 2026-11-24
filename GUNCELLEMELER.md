@@ -3,6 +3,10 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 24 Kasım 2026 — Ekip'ten arama, bildirim simgesi
+- **📞 Ekip'ten arama:** Ekip'te bir kişiyle direkt mesajdayken başlıkta 🔔 Çaldır'ın yanında **📞 Ara** var (kişinin sağ tık menüsünde de). Telsizdeki 📞 Görüşme ile aynı şekilde arar; karşı taraf Cevapla / Reddet görür. Telefonda sohbet başlığındaki ahize simgesi aynı işi yapar. Görüşme şeridi Ekip'te sohbet başlığını örtmez.
+- **🔊 Masaüstü bildirim düğmesi:** üst çubuktaki masaüstü bildirimlerini aç / kapa düğmesi artık 🔊 / 🔇 (🔔 yalnız bildirim merkezi; ikisi karışmasın).
+
 ## 24 Kasım 2026 — Claude asistanı ve çeviri API anahtarsız (abonelikle) + ücretsiz tarayıcı çevirisi
 - **🤖 Claude aboneliğiyle çalışma:** asistan ve mesaj çevirisi artık ücretli API anahtarı olmadan, mevcut Claude aboneliğiyle çalışabilir (ek ücret yok; aboneliğin kullanım hakkından yer). Ana bilgisayarda Claude masaüstü uygulamasının içindeki Claude Code kullanılır. Kurulum bir kez yapılır: **Ayarlar → 🤖 Claude yapay zekâ → Claude aboneliği** bölümündeki komut ana bilgisayarda PowerShell'de çalıştırılır, açılan sayfada Claude hesabıyla onaylanır, çıkan `sk-ant-oat…` jetonu aynı yere yapıştırılıp **Kaydet ve doğrula**'ya basılır. Jeton yalnız ana bilgisayarda şifreli saklanır. **Bağlantı yöntemi** "Otomatik" (API anahtarı varsa onu, yoksa aboneliği kullanır), "Claude aboneliği" ya da "API anahtarı" seçilebilir. Günlük USD sınırı yalnız API anahtarıyla geçerlidir. Abonelik kullanım hakkı ekip için ortaktır; çok yoğun kullanım araştırma görevini yavaşlatabilir.
 - **Düzeltme:** Claude aboneliği jetonu kaydedilirken çıkan "Jeton şifrelenip kaydedilemedi" hatası giderildi; jeton artık kaydediliyor.
