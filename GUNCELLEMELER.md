@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 24 Kasım 2026 — Alarmı kim kapatırsa herkeste kapanır
+- **Ekip alarmları:** bir alarm birden çok kişiye çalıyorsa (🎟 GİŞEDE BİLET VAR, ⏰ Satış yarın / bugün / saati, maç öncesi, satış alarmı, kanala / gruba kurulan alarm, birden çok kişiye Çaldır) birinin **Kapat** / **Gördüm** demesi alarmı o an çalan herkeste susturur: bütün bilgisayarlarda ve telefonlarda pencere kapanır, ses durur. Ötekilerde kısa bir "🔕 Alarmı Ayşe kapattı" notu çıkar; telefonlarındaki alarm bildirimi "✅ Alarm kapatıldı · Ayşe kapattı" olur. Kimin kapattığı Hareketler'e yazılır.
+- **Ertele kişiye özel:** erteleyen kişide susar, ötekilerde çalmaya devam eder. Alarmlarım'daki "Kaçırılan" bölümünden Kapat da yalnız sizin listenizi temizler.
+- **Sesli bantlar:** "🚨 Bugünkü maça satış", "⭐ Önemli gişe", "🎟 GİŞE AÇILDI", "📰 Gişe açılmış olabilir", "📢 Duyuru" ve "⏰ Satış 10 dk sonra" bantlarını biri kapatınca bant herkeste kalkar, sesi kesilir; ötekilerde "🔕 … kapattı" notu çıkar.
+- *Ana bilgisayar güncellemesi yapıldı;* açık paneller ve telefonlar yeni hali kendiliğinden yükler (gerekirse F5 ya da uygulamayı kapatıp açın).
+
 ## 24 Kasım 2026 — Görüntülü görüşme: sunucu üzerinden de iki yönde görüntü, daha yüksek ses
 - **Karşının görüntüsü artık geliyor:** doğrudan bağlantı kurulamadığında ("Sunucu üzerinden") bir tarafın görüntüsü karşıya hiç gitmeyebiliyordu. Nedenler giderildi: panel arka sekmede ya da pencere küçültülmüşken görüntü durmuyor (daha yavaş da olsa sürüyor); iPhone'da görüntü yakalama düzeltildi; "📞 Cevapla" ile açılıp sonra kamerası açılan görüşmede görüntünün hiç görünmemesi düzeltildi.
 - **Telefonda arka plan:** telefonda WisePanel arka plana alınınca ya da ekran kilitlenince karşı tarafta "Karşı tarafın uygulaması arka planda; görüntü duraklatıldı" yazar, öne dönünce görüntü kendiliğinden sürer. Görüntünüz karşıya gitmiyorsa kendi ekranınızda uyarı çıkar.
