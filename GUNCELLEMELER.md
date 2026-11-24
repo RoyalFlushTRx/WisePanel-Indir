@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 24 Kasım 2026 — WiseSiren: "Gördüm" her yerde kapatır
+- **Tek "✅ Gördüm" bütün alarmları kapatır:** aynı sayfa sık sık yeniden alarm verdiğinde birden çok açık alarm birikiyordu ve başka bilgisayardan "Gördüm" yalnız birini kapatıyordu; siren sürüyordu. Artık "✅ Gördüm (3 alarm)" ekranda görünen bütün alarmları (ve öncesinde kalmış eski açık alarmları) her yerde kapatır: bütün bilgisayarlarda pencere, telefonlarda kart ve bildirim, ana bilgisayardaki kırmızı siren penceresi. Gördükten sonra gelen yeni alarm ayrıca çalar.
+- **"Yanlış alarm"** alarm başına kalır (o değişiklik bir daha sorulmaz).
+- **Sayfa yenilenince** açık alarm penceresi sessizce yeniden görünür; alarm kapanınca bant ve bildirimler kalkar.
+- *Ana bilgisayar güncellemesi yapıldı; WiseSiren kendini güncelledi (0.1.8.1).*
+
 ## 24 Kasım 2026 — Alarmı kim kapatırsa herkeste kapanır
 - **Ekip alarmları:** bir alarm birden çok kişiye çalıyorsa (🎟 GİŞEDE BİLET VAR, ⏰ Satış yarın / bugün / saati, maç öncesi, satış alarmı, kanala / gruba kurulan alarm, birden çok kişiye Çaldır) birinin **Kapat** / **Gördüm** demesi alarmı o an çalan herkeste susturur: bütün bilgisayarlarda ve telefonlarda pencere kapanır, ses durur. Ötekilerde kısa bir "🔕 Alarmı Ayşe kapattı" notu çıkar; telefonlarındaki alarm bildirimi "✅ Alarm kapatıldı · Ayşe kapattı" olur. Kimin kapattığı Hareketler'e yazılır.
 - **Ertele kişiye özel:** erteleyen kişide susar, ötekilerde çalmaya devam eder. Alarmlarım'daki "Kaçırılan" bölümünden Kapat da yalnız sizin listenizi temizler.
