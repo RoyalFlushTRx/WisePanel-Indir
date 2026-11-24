@@ -3,6 +3,13 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 24 Kasım 2026 — Görüntülü görüşme: sunucu üzerinden de iki yönde görüntü, daha yüksek ses
+- **Karşının görüntüsü artık geliyor:** doğrudan bağlantı kurulamadığında ("Sunucu üzerinden") bir tarafın görüntüsü karşıya hiç gitmeyebiliyordu. Nedenler giderildi: panel arka sekmede ya da pencere küçültülmüşken görüntü durmuyor (daha yavaş da olsa sürüyor); iPhone'da görüntü yakalama düzeltildi; "📞 Cevapla" ile açılıp sonra kamerası açılan görüşmede görüntünün hiç görünmemesi düzeltildi.
+- **Telefonda arka plan:** telefonda WisePanel arka plana alınınca ya da ekran kilitlenince karşı tarafta "Karşı tarafın uygulaması arka planda; görüntü duraklatıldı" yazar, öne dönünce görüntü kendiliğinden sürer. Görüntünüz karşıya gitmiyorsa kendi ekranınızda uyarı çıkar.
+- **Ses daha yüksek:** sunucu üzerinden görüşmede konuşanın sesi yankı önleme yüzünden gereksiz yere kısılıyordu; artık mikrofonla aynı düzeyde gidiyor. iPhone'da görüşme sesi ahize yerine hoparlörden çalar. Bazı bilgisayarlarda görüşme sesinin hiç duyulmaması da düzeltildi.
+- **İpucu:** sunucu üzerinden görüşmede görüntü düşük kaliteli ve saniyede birkaç karedir. Hoparlörle konuşulursa yankı olabilir; kulaklık önerilir.
+- *Ana bilgisayar güncellemesi yapıldı;* açık paneller ve telefonlar yeni hali kendiliğinden yükler (gerekirse F5 ya da uygulamayı kapatıp açın).
+
 ## 24 Kasım 2026 — Telefonda 🚨 WiseSiren alarmı ve bildirimden "✅ Gördüm"
 - **🚨 WiseSiren telefonda:** izlenen bir sayfa değişince telefonda da tam ekran kırmızı alarm kartı açılır (uygulama açıkken siren de çalar, en çok 60 sn). Kartta ne değiştiği, **✅ Gördüm**, **Yanlış alarm** ve **Sayfayı aç** vardır. Telefondan "Gördüm" denince alarm her yerde kapanır: bilgisayarlardaki kırmızı pencere ve ana bilgisayardaki WiseSiren sireni de susar. Birden çok alarm varsa kartta sırayla gezilir. × yalnız o telefonda gizler.
 - **Bildirimden kapatma (Android):** WiseSiren, Ekip alarmı, satış alarmı, maç öncesi, 🎟 GİŞEDE BİLET VAR ve ⏰ satış saati bildirimlerinde **Aç** ve **✅ Gördüm** düğmeleri var; "Gördüm" uygulamayı açmadan alarmı kapatır. iPhone bildirimde düğme göstermez; bildirime dokununca uygulama doğrudan ilgili alarm kartıyla açılır.
