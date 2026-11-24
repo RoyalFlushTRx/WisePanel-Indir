@@ -3,8 +3,9 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
-## 24 Kasım 2026 — Ekip'te sohbeti temizleme
+## 24 Kasım 2026 — Ekip'te sohbeti temizleme, bildirimleri temizleme
 - **🧹 Direkt mesajı temizle:** Ekip'te bir kişiyle direkt mesajdayken başlıktaki **🧹 Temizle** (telefonda sohbetin "⋯" menüsünde **Sohbeti temizle**) o sohbetteki bütün mesajları, görselleri, alarmları ve sabitlemeleri **iki taraftan da kalıcı olarak** siler. Önce onay sorulur; geri alınamaz. Sohbette yalnız "… sohbeti temizledi" satırı kalır, böylece karşı taraf neden boşaldığını görür. Bu sohbetten Yapılacaklar'a çevrilmiş görevler durur, kaynak alıntısı "silindi" olur. Yalnız sohbetin iki tarafı temizleyebilir; kanallar (Genel, Yapılacaklar ve diğerleri) bu yolla temizlenmez. Hareketler'e yalnız "kiminle, kaç mesaj" yazılır, içerik yazılmaz.
+- **🧹 Bildirimleri temizle:** 🔔 bildirim listesinin üstündeki **🧹 Temizle** (telefonda **Temizle**) birikmiş bildirimleri listenizden siler; bir tür seçiliyse (ör. Gişe) yalnız o türü siler. Masaüstünde ikinci tıklamada, telefonda onaydan sonra silinir. Yalnız sizin listenizden kalkar; ekipteki diğer kişilerin bildirimleri durur. Temizledikten sonra gelen yeni bildirimler eskisi gibi görünür.
 
 ## 24 Kasım 2026 — Ekip'ten arama, bildirim simgesi
 - **📞 Ekip'ten arama:** Ekip'te bir kişiyle direkt mesajdayken başlıkta 🔔 Çaldır'ın yanında **📞 Ara** var (kişinin sağ tık menüsünde de). Telsizdeki 📞 Görüşme ile aynı şekilde arar; karşı taraf Cevapla / Reddet görür. Telefonda sohbet başlığındaki ahize simgesi aynı işi yapar. Görüşme şeridi Ekip'te sohbet başlığını örtmez.
