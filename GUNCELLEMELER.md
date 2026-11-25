@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 25 Kasım 2026 — 🛒 Ürün aç ve ✏️ Biletwise düzenle (ilk sürüm, yazma kapalı)
+- **Ürün aç (yönetici):** futbol ve basketbol (NBA dahil) maç listesi yapıştırılır (Flashscore metni ya da satır satır); WisePanel her maç için Biletwise formunu hazırlar: 6 dilde ad, slug, meta, açıklama, tarih / saat (İstanbul saati), salon ve düzen, para, komisyon, kargo (aynı ligdeki mevcut üründen), formatlar, bayraklar, kategoriler. Önizlemede her satır ve uyarılar (zaten var, salon belirsiz vb.) görünür. İlk ürün örnek açılır, siz bakıp "Devam" deyince kalanlar sırayla açılır.
+- **Biletwise düzenle:** ürün arayıp açın; adlar, tarih, saat, salon / düzen, kategori fiyatları, bayraklar, formatlar, kategoriler düzenlenir; kaydetmeden önce önce / sonra tablosu, onaydan sonra kayıt ve geri okumayla doğrulama; "Eski değerlere döndür"; etkin / pasif yapma.
+- **Şimdilik Biletwise'a yazma kapalı:** önizleme ve okuma çalışır; ilk gerçek ürün açma ve düzenleme ana bilgisayardan, birlikte açılacak.
+- Masaüstünde ve telefonda (yönetici araçları).
+
 ## 25 Kasım 2026 — Görüşme sesi daha yüksek, sessiz mikrofon uyarısı
 - **Kısık konuşan daha iyi duyulur:** gelen ses kendiliğinden yükseltilir (en çok +12 dB); bozulma olmasın diye tavan sınırı var.
 - **Telefonda ses düzeyi:** görüşme ekranında büyük − / + düğmeleri (%50–%200).
