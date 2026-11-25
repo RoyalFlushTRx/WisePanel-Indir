@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 25 Kasım 2026 — Görüntülü görüşmede donma giderildi, görüntü daha net
+- Sunucu üzerinden görüntülü görüşmede görüntü saniyede ~1 kareye düşüp donuyordu. Artık saniyede 4–10 kare ve 480–640 px gidiyor; bağlantı iyiyse kalite kendiliğinden yükselir, darsa geçici iner, düzelince geri çıkar.
+- Ses her zaman önce gider: görüntü büyüdükçe sesin gecikmesi artmaz.
+- Son kare yeni kare gelene kadar ekranda kalır (siyah ekran / titreme yok).
+- *Ana bilgisayar güncellemesi yapıldı;* paneli yenileyin (F5), telefonda uygulamayı kapatıp açın.
+
 ## 24 Kasım 2026 — WiseSiren: "Gördüm" her yerde kapatır
 - **Tek "✅ Gördüm" bütün alarmları kapatır:** aynı sayfa sık sık yeniden alarm verdiğinde birden çok açık alarm birikiyordu ve başka bilgisayardan "Gördüm" yalnız birini kapatıyordu; siren sürüyordu. Artık "✅ Gördüm (3 alarm)" ekranda görünen bütün alarmları (ve öncesinde kalmış eski açık alarmları) her yerde kapatır: bütün bilgisayarlarda pencere, telefonlarda kart ve bildirim, ana bilgisayardaki kırmızı siren penceresi. Gördükten sonra gelen yeni alarm ayrıca çalar.
 - **"Yanlış alarm"** alarm başına kalır (o değişiklik bir daha sorulmaz).
