@@ -3,6 +3,12 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 25 Kasım 2026 — 🪄 Ürün işlerini yazarak yaptırın
+- Ürün aç / Biletwise düzenle ekranının üstündeki **"🪄 Ne yapmak istiyorsunuz?"** kutusuna (ya da ✨ Asistan'a) yazın: "Fenerbahçe - Galatasaray 14 Aralık 20:00 maçını aç, Kategori 1 4500 TL, Kategori 2 3000 TL", "Brooklyn Nets - Boston Celtics maçına %10 zam yap", "Beşiktaş - Galatasaray maçının saatini 19:00 yap".
+- Claude eksik bilgiyi (tarih, saat, stat, lig) panelden ve internetten bulur; emin değilse sorar. Bir kart çıkar: ne yapılacak, önce → sonra fiyatlar, uyarılar. **Onayla** / **Düzenle** / **Vazgeç**. Claude kendi başına hiçbir şey açmaz ya da kaydetmez.
+- Zam / indirim kategori başına denetlenir (%50'yi aşan uyarı, aşırı olan engellenir; taban fiyat kuralı). İlan fiyatları sonraki aşamada.
+- Elle giriş aynen duruyor.
+
 ## 25 Kasım 2026 — 🛒 Ürün aç ve ✏️ Biletwise düzenle (ilk sürüm, yazma kapalı)
 - **Ürün aç (yönetici):** futbol ve basketbol (NBA dahil) maç listesi yapıştırılır (Flashscore metni ya da satır satır); WisePanel her maç için Biletwise formunu hazırlar: 6 dilde ad, slug, meta, açıklama, tarih / saat (İstanbul saati), salon ve düzen, para, komisyon, kargo (aynı ligdeki mevcut üründen), formatlar, bayraklar, kategoriler. Önizlemede her satır ve uyarılar (zaten var, salon belirsiz vb.) görünür. İlk ürün örnek açılır, siz bakıp "Devam" deyince kalanlar sırayla açılır.
 - **Biletwise düzenle:** ürün arayıp açın; adlar, tarih, saat, salon / düzen, kategori fiyatları, bayraklar, formatlar, kategoriler düzenlenir; kaydetmeden önce önce / sonra tablosu, onaydan sonra kayıt ve geri okumayla doğrulama; "Eski değerlere döndür"; etkin / pasif yapma.
