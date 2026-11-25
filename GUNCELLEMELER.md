@@ -3,6 +3,13 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 25 Kasım 2026 — Görüşme sesi daha yüksek, sessiz mikrofon uyarısı
+- **Kısık konuşan daha iyi duyulur:** gelen ses kendiliğinden yükseltilir (en çok +12 dB); bozulma olmasın diye tavan sınırı var.
+- **Telefonda ses düzeyi:** görüşme ekranında büyük − / + düğmeleri (%50–%200).
+- **"Mikrofonunuzdan ses gelmiyor":** mikrofonunuz sessizlik gönderiyorsa uyarı ve mikrofon seçimi çıkar; karşı tarafta da "Karşı tarafın mikrofonundan ses gelmiyor" yazar.
+- **Yarım doğrudan bağlantı:** doğrudan bağlantıda karşının sesi gelmiyorsa birkaç saniyede sunucu yoluna dönülür (ses kaybolmaz).
+- *Ana bilgisayar güncellemesi yapıldı;* paneli yenileyin (F5), telefonda uygulamayı kapatıp açın.
+
 ## 25 Kasım 2026 — Görüntülü görüşmede donma giderildi, görüntü daha net
 - Sunucu üzerinden görüntülü görüşmede görüntü saniyede ~1 kareye düşüp donuyordu. Artık saniyede 4–10 kare ve 480–640 px gidiyor; bağlantı iyiyse kalite kendiliğinden yükselir, darsa geçici iner, düzelince geri çıkar.
 - Ses her zaman önce gider: görüntü büyüdükçe sesin gecikmesi artmaz.
