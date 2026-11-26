@@ -3,6 +3,11 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 26 Kasım 2026 — ✨ Asistan müşteri mesajlarını okuyabilir
+- ✨ Asistan'a "Biletini yüklediğimiz müşterilerden satmak isteyen ya da gidemeyeceğini yazan var mı?" gibi sorular sorabilirsiniz. Aktif satışlarda ya da bileti yüklenmiş (maçı henüz oynanmamış) satışlarda müşterinin yazdığı mesajlara bakar; Türkçe, İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Yunanca ifadeleri tanır. Sonuçlar satış bağlantısı, kısa alıntı (varsa çevirisiyle) ve eşleşme nedeniyle gelir.
+- Gizlilik: e-posta, telefon, kimlik / pasaport / kart numarası, IBAN, bağlantı ve müşteri adı Claude'a gitmeden gizlenir; müşteri satış numarasıyla anılır.
+- Ayarlar → Claude yapay zekâ bölümünden kapatılabilir.
+
 ## 25 Kasım 2026 — 🪄 Ürün işlerini yazarak yaptırın
 - Ürün aç / Biletwise düzenle ekranının üstündeki **"🪄 Ne yapmak istiyorsunuz?"** kutusuna (ya da ✨ Asistan'a) yazın: "Fenerbahçe - Galatasaray 14 Aralık 20:00 maçını aç, Kategori 1 4500 TL, Kategori 2 3000 TL", "Brooklyn Nets - Boston Celtics maçına %10 zam yap", "Beşiktaş - Galatasaray maçının saatini 19:00 yap".
 - Claude eksik bilgiyi (tarih, saat, stat, lig) panelden ve internetten bulur; emin değilse sorar. Bir kart çıkar: ne yapılacak, önce → sonra fiyatlar, uyarılar. **Onayla** / **Düzenle** / **Vazgeç**. Claude kendi başına hiçbir şey açmaz ya da kaydetmez.
