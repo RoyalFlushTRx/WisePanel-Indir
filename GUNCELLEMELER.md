@@ -3,6 +3,13 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 27 Kasım 2026 — ✨ Asistan cevapsız müşteri mesajlarına cevap hazırlar (siz onaylayınca gider)
+- ✨ Asistan'a "Cevaplanmamışlara cevap ver" deyin (isterseniz "bileti yüklenmiş satışlarda" gibi). Asistan cevapsız müşteri mesajlarını bulur ve her biri için bir taslak hazırlar: durum bir şablona uyuyorsa şablonun **birebir metni** (yalnız XXX / YYY gibi yerler doldurulur), uymuyorsa öteki satışlarda benzer sorulara verdiğimiz cevaplara göre müşterinin dilinde bir cevap.
+- Her müşteri için bir kart çıkar: müşterinin mesajı ve çevirisi, önerilen cevap, şablon adı; **Gönder / Düzenle / Atla**. Birden çok kartta seçip "Seçilenleri gönder".
+- **Siz onaylamadan hiçbir mesaj gitmez.** Gönderimden hemen önce sohbet yeniden kontrol edilir: bu arada başkası cevap verdiyse ya da müşteri yeni mesaj yazdıysa gönderilmez. Gönderilenler Hareketler'e yazılır; imza ve geri alma süresi panelden gönderilen mesajlardaki gibidir.
+- Telefonda da aynı. Ayarlar → Claude yapay zekâ bölümünden kapatılabilir.
+- Telefonda alt menüde **Ürünler** düğmesi (yöneticiler için) eklendi.
+
 ## 26 Kasım 2026 — ✨ Asistan müşteri mesajlarını okuyabilir
 - ✨ Asistan'a "Biletini yüklediğimiz müşterilerden satmak isteyen ya da gidemeyeceğini yazan var mı?" gibi sorular sorabilirsiniz. Aktif satışlarda ya da bileti yüklenmiş (maçı henüz oynanmamış) satışlarda müşterinin yazdığı mesajlara bakar; Türkçe, İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Yunanca ifadeleri tanır. Sonuçlar satış bağlantısı, kısa alıntı (varsa çevirisiyle) ve eşleşme nedeniyle gelir.
 - Gizlilik: e-posta, telefon, kimlik / pasaport / kart numarası, IBAN, bağlantı ve müşteri adı Claude'a gitmeden gizlenir; müşteri satış numarasıyla anılır.
