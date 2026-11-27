@@ -3,6 +3,11 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 27 Kasım 2026 — ✨ Ürün açma: konser, festival ve tüm etkinlikler
+- ✨ Ürün açıcı artık yalnız futbol / basketbol değil: konser, tiyatro, gösteri, festival, Formula 1, Super Bowl, NHL, kriket, dövüş gibi etkinlikleri de açar. Örnek: "Tomorrowland festivali 12-14 Haziran aç", "Formula 1 Great Britain Saturday aç", "England vs Australia 3rd Test aç, referans 40993".
+- Açılırken aynı türdeki mevcut bir ürün örnek alınır (kargo, düzen, biçim oradan kopyalanır). Gerekirse Biletwise'ta yeni kategori de açılır (yine onaylı).
+- Masaüstünde üst çubuğa, Mesajlar'ın yanına **🛒 Ürün aç** düğmesi eklendi (yalnız yöneticiler).
+
 ## 27 Kasım 2026 — ✨ Asistan cevapsız müşteri mesajlarına cevap hazırlar (siz onaylayınca gider)
 - ✨ Asistan'a "Cevaplanmamışlara cevap ver" deyin (isterseniz "bileti yüklenmiş satışlarda" gibi). Asistan cevapsız müşteri mesajlarını bulur ve her biri için bir taslak hazırlar: durum bir şablona uyuyorsa şablonun **birebir metni** (yalnız XXX / YYY gibi yerler doldurulur), uymuyorsa öteki satışlarda benzer sorulara verdiğimiz cevaplara göre müşterinin dilinde bir cevap.
 - Her müşteri için bir kart çıkar: müşterinin mesajı ve çevirisi, önerilen cevap, şablon adı; **Gönder / Düzenle / Atla**. Birden çok kartta seçip "Seçilenleri gönder".
