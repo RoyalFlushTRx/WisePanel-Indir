@@ -3,6 +3,11 @@
 En yeni en üstte. **Windows uygulaması** sürümleri [Releases](https://github.com/RoyalFlushTRx/WisePanel-Indir/releases) sayfasından indirilir; **panel (ana bilgisayar)** güncellemeleri ana bilgisayara kurulur, diğer bilgisayarlarda bir şey yapmak gerekmez.
 
 
+## 27 Kasım 2026 — ✨ Ferencváros maçlarına otomatik Fradi kart mesajı, otomatik mesajlarda gecikme
+- ✨ Ev sahibi **Ferencváros** olan maçların yeni bilet satışlarında müşteriye Fradi Supporter Card mesajı alıcı sohbetinden otomatik gider (deplasman maçlarına gitmez). Yalnız bu güncellemeden sonra gelen satışlara; aynı alıcıya aynı maç için bir kez. Ayarlar → Müşteri mesajları'ndan kapatılabilir, metni değiştirilebilir.
+- ✨ Yunan maçı, Como 1907 ve Ferencváros otomatik mesajlarının her birine **Gönderim** seçimi: Hemen (varsayılan) ya da satış ilk görüldükten 5 dk – 24 saat sonra. Süre dolduğunda maç başlamış ya da satış iptal edilmişse gitmez.
+- Telefonda: Profil → Yönetici araçları → **Otomatik müşteri mesajları** (aç / kapat, gönderim zamanı); satışlarda mesaj rozetleri.
+
 ## 27 Kasım 2026 — ✨ Ürün açma: konser, festival ve tüm etkinlikler
 - ✨ Ürün açıcı artık yalnız futbol / basketbol değil: konser, tiyatro, gösteri, festival, Formula 1, Super Bowl, NHL, kriket, dövüş gibi etkinlikleri de açar. Örnek: "Tomorrowland festivali 12-14 Haziran aç", "Formula 1 Great Britain Saturday aç", "England vs Australia 3rd Test aç, referans 40993".
 - Açılırken aynı türdeki mevcut bir ürün örnek alınır (kargo, düzen, biçim oradan kopyalanır). Gerekirse Biletwise'ta yeni kategori de açılır (yine onaylı).
